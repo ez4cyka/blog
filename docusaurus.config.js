@@ -121,7 +121,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 张昱唯 Built with Docusaurus.\n沪ICP备2022031720号-1`,
+        
+        copyright: `Copyright © ${new Date().getFullYear()} 张昱唯 Built with Docusaurus. 沪ICP备2022031720号-1`,
       },
       prism: {
         theme: lightCodeTheme,
