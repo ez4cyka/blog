@@ -1,12 +1,12 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: 第一篇博客
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: Ez4cyka
+  title: 虚空架构师
+  url: https://github.com/ez4cyka
+  image_url: https://github.com/ez4cyka.png
+tags: [blog, linux]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+嘿!,终于把小站搭起来了,心情不错捏~

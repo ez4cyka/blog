@@ -1,9 +1,9 @@
 # Mysql安装脚本
 
-
+:::tip
 使用前先下载mysql二进制文件
 mysql-8.0.30-linux-glibc2.12-x86_64.tar.xz,不同版本需要改下脚本里MYSQL变量.
-
+:::
 
 
 ```shell
