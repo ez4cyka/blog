@@ -14,7 +14,7 @@ sidebar_position: 1
 - [Linux 安装与配置](./linux-basic-system/setup-setting/)
 - [Linux 基础入门](./linux-basic-system/linux-basic/)
 - [文件系统](./linux-basic-system/file-system/)
-- [文件操作工具](./linux-basic-system/file-operations/)
+- [文件操作](./linux-basic-system/file-opera/)
 - [bash 特性](./linux-basic-system/bash/)
 - [文本处理工具及正则表达式](./linux-basic-system/text-manipulation-regular-expression/)
 - [用户管理工具](./linux-basic-system/user-manager/)
