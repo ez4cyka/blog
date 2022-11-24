@@ -145,7 +145,7 @@
 - 2012年十佳 OSS
 - 被 RedHat 收购（1亿美元）
 
-[Ansible-cn](wwww.ansible.com.cn)
+`wwww.ansible.com.cn`
 
 ## Ansible Features
 

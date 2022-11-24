@@ -530,12 +530,12 @@ MySQL: CPU/IO密集型
 - 测试较大资源文件：执行857k大小(/var/log/message)， log.html
 
 - **Concurrency Level: 200** 并发量
-- **Requests per second:555.55** [#/sec](mean，平均值) 每秒完成多少个请求
+- **Requests per second:555.55** `[#/sec](mean，平均值)每秒完成多少个请`求
 - **Time per request:	360.005** [ ms ] 一次并发200个请求完成时间
 - Time per request:	1.800 [ ms ] 每个请求完成时间 （360/200=1.8）
 - **Transfer rate：带宽x8** = 实际带宽
 
-- min mean[+/-sd] median max (单位：ms)
+- `min mean[+/-sd] median max (单位：ms)`
 - **Connect**: C<---连接---->S 连接时间
   - 消耗很长
     - 1.网络带宽有限
