@@ -4,6 +4,11 @@ sidebar_position: 1
 
 # 目录
 
+## [计算机概述](./introduction-to-computers/)
+
+- [硬件](./introduction-to-computers/computer-concepts/)
+- [操作系统](./introduction-to-computers/operating-system/)
+
 ## [Linux 基础系统](./linux-basic-system/)
 
 - [Linux 安装与配置](./linux-basic-system/setup-setting/)
