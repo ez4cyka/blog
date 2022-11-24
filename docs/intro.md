@@ -34,13 +34,12 @@ sidebar_position: 1
 - [系统启动流程](./system-management/startup/)
 - [内核管理](./system-management/kernel-module/)
 - [安装系统](./system-management/setup-system/)
-- [系统服务](./system-management/system-service/)
-  - [crontab](./system-management/system-service/crontab/)
-  - [selinux](./system-management/system-service/selinux/)  
+- [crontab](./system-management/crontab/)
+- [selinux](./system-management/selinux/)  
 - [systemd](./system-management/systemd/)
 
 
-## 应用服务管理
+## [应用服务管理](./application-service/)
 
 - [OpenSSL](./application-service/openssl/)
 - [http](./application-service/http/)
@@ -56,14 +55,14 @@ sidebar_position: 1
 - [SAMBA](./application-service/samba/)
 - [Web Service](./application-service/webservice/)
   - [LAMP](./application-service/lamp/)
-  - [LNMP](./application-service/lnmps/)
+  - [LNMP](./application-service/lnmp/)
   - [Mariadb](./application-service/mariadb/)
   - Cache
     - [Memecache](./application-service/memcached/)
-    - [varnish](./application-service/vanish/)
+    - varnish
   - NoSQL(Cache)
     - [Redis](./application-service/redis/)
-    - [MongoDB](./application-service/mongodb/)
-    - [HBase](./application-service/hbase/)
+    - MongoDB
+    - HBase
   - [tomcat](./application-service/tomcat/)
-  
+  - [ansible](./application-service/ansible/)

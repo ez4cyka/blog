@@ -1,6 +1,6 @@
-# 计算机入门
+# 计算机概述
 
-## [计算机概论](./computer-concepts/)
+## [硬件](./computer-concepts/)
 
 - 计算机简史
 - 什么是计算机
@@ -18,6 +18,3 @@
 - Unix 操作系统
 - Linux 操作系统
 
-## [计算机网络](./computer-network/)
-
-## [程序设计语言](./programming-language/)
