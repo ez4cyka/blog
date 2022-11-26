@@ -7,11 +7,11 @@ sidebar_position: 1
 ## [计算机概述](./introduction-to-computers/)
 
 - [硬件](/docs/introduction-to-computers/computer-concepts/)
-- [操作系统](./introduction-to-computers/operating-system/)
+- [操作系统](introduction-to-computers/operating-system/)
 
 ## [Linux 基础系统](./linux-basic-system/)
 
-- [Linux 安装与配置](./linux-basic-system/setup-setting/)
+- [Linux 安装与配置](./linux-basic-system/setup-setting/README.md)
 - [Linux 基础入门](./linux-basic-system/linux-basic/)
 - [文件系统](./linux-basic-system/file-system/)
 - [文件操作](./linux-basic-system/file-opera/)
