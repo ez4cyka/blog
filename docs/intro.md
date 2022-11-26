@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## [计算机概述](./introduction-to-computers/)
 
-- [硬件](./introduction-to-computers/computer-concepts/)
+- [硬件](/docs/introduction-to-computers/computer-concepts/)
 - [操作系统](./introduction-to-computers/operating-system/)
 
 ## [Linux 基础系统](./linux-basic-system/)
