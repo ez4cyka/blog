@@ -119,6 +119,8 @@ DNS.3  = *.kuku.org
 ```
 
 
+:::tipChrome 58已经放弃了对没有主题备用名称的证书的支持不加这里的`[alt_names]` 还是会警告
+:::
 这里的 `alt_names` 域中即为我们需要指定的 subjectAltName，可以配置多个 IP，DNS 或其他值。
 
 
