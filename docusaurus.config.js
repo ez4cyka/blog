@@ -75,6 +75,11 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://ez4cyka.com/reference',
+            label: '速查表',
+            position: 'left',
+          },
+          {
             href: 'https://ez4cyka.com/nginx/?global.app.lang=zhCN',
             label: 'nginx配置生成器',
             position: 'left',
